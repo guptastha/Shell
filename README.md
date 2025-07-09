@@ -1,3 +1,2 @@
 # Shell
-Schell Scripts for practice
-Hello Astha 
+Schell Scripts for practice 
