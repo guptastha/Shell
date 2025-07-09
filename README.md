@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for practice and apply
+Schell Scripts for practice
